@@ -15,7 +15,7 @@ html,body{
 }
 
 
-/* ================== Navbar Start Here ================== */
+
 
 .nav{
     width: 100%;
@@ -49,11 +49,6 @@ html,body{
     color: #006239;
 }
 
-/* ================== Navbar End Here ================== */
-
-
-
-/* ================== Content Start Here ================== */
 
 .content{
     height: calc(100% - 100px);
@@ -105,17 +100,8 @@ html,body{
     padding-top: 2vw;
     cursor: pointer;
 }
-/* ================== Content End Here ================== */
 
 
-
-
-
-
-
-
-
-/* ================== Media Queries Start Here ================== */
 
 @media (max-width:600px) {
     .nav{
@@ -163,5 +149,3 @@ html,body{
 
     }
 }
-
-/* ================== Media Queries Start Here ================== */
